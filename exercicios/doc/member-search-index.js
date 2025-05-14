@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"TaskManager","c":"TarefaConcluida","l":"getDescricao()"},{"p":"TaskManager","c":"TarefaConcluida","l":"setDescricao(String)","u":"setDescricao(java.lang.String)"},{"p":"TaskManager","c":"TarefaConcluida","l":"TarefaConcluida()","u":"%3Cinit%3E()"}];updateSearchResults();
